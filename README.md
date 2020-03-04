@@ -12,5 +12,7 @@ Práctica 1 - Grupo 4
 Integrantes:
 
 Carlos Antonio Campaneros Benito - 201612274
+
 Jeannira Del Rosario Sic Menéndez - 201602434
+
 Ruth Nohemy Ardón Lechuga - 201602975
