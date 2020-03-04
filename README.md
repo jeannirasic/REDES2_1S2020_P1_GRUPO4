@@ -1,10 +1,13 @@
 # REDES2_1S2020_P1_GRUPO4
 Universidad de San Carlos de Guatemala
+
 Facultad de ingeniería
+
 Redes de computadoras 2
+
 Primer semestre 2020
 
-Practica 1 - Grupo 4
+Práctica 1 - Grupo 4
 
 Integrantes:
 
