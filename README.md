@@ -16,3 +16,5 @@ Carlos Antonio Campaneros Benito - 201612274
 Jeannira Del Rosario Sic Menéndez - 201602434
 
 Ruth Nohemy Ardón Lechuga - 201602975
+
+Irving Samuel Rosales Dominguez - 201403904
