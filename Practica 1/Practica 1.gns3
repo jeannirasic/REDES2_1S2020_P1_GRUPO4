@@ -33,19 +33,11 @@
                 "z": 1
             },
             {
-                "drawing_id": "e3753cd7-6bbc-49b8-b968-ced30e26e22c",
-                "rotation": 0,
-                "svg": "<svg height=\"50\" width=\"292\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Protocolo de Redundancia de red\nUsar vrrp o hsrp</text></svg>",
-                "x": 221,
-                "y": -2,
-                "z": 1
-            },
-            {
                 "drawing_id": "b3d9f168-9ff1-48f3-abfb-3a73215c71f7",
                 "rotation": 0,
-                "svg": "<svg height=\"29\" width=\"176\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">172.16.100.59/192</text></svg>",
-                "x": -742,
-                "y": -286,
+                "svg": "<svg height=\"24\" width=\"132\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">172.16.100.59/192</text></svg>",
+                "x": -664,
+                "y": -281,
                 "z": 1
             },
             {
@@ -126,6 +118,14 @@
                 "svg": "<svg height=\"29\" width=\"176\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">172.16.100.82/248</text></svg>",
                 "x": 12,
                 "y": -464,
+                "z": 1
+            },
+            {
+                "drawing_id": "bb2f4727-219a-4280-bc37-b47751f7c048",
+                "rotation": 0,
+                "svg": "<svg height=\"88\" width=\"279\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">PROTOCOLO HSRP\n\nIP VIRTUAL PROTOCOLO DE REDUNDANCIA:\n172.16.100.1\n</text></svg>",
+                "x": 218,
+                "y": -99,
                 "z": 1
             }
         ],
@@ -1219,11 +1219,6 @@
                 "properties": {
                     "interfaces": [
                         {
-                            "name": "Wi-Fi",
-                            "special": true,
-                            "type": "ethernet"
-                        },
-                        {
                             "name": "VMware Network Adapter VMnet1",
                             "special": true,
                             "type": "ethernet"
@@ -1244,7 +1239,17 @@
                             "type": "ethernet"
                         },
                         {
-                            "name": "VMware Network Adapter VMnet4",
+                            "name": "Ethernet",
+                            "special": false,
+                            "type": "ethernet"
+                        },
+                        {
+                            "name": "Wi-Fi",
+                            "special": true,
+                            "type": "ethernet"
+                        },
+                        {
+                            "name": "Bluetooth Network Connection",
                             "special": true,
                             "type": "ethernet"
                         }
@@ -1269,5 +1274,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.1.21",
-    "zoom": 100
+    "zoom": 71
 }
