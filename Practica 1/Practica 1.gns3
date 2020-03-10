@@ -123,7 +123,7 @@
             {
                 "drawing_id": "bb2f4727-219a-4280-bc37-b47751f7c048",
                 "rotation": 0,
-                "svg": "<svg height=\"88\" width=\"279\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">PROTOCOLO HSRP\n\nIP VIRTUAL PROTOCOLO DE REDUNDANCIA:\n172.16.100.1\n</text></svg>",
+                "svg": "<svg height=\"88\" width=\"279\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">PROTOCOLO HSRP\n\nIP VIRTUAL PROTOCOLO DE REDUNDANCIA:\n172.16.1.1\n</text></svg>",
                 "x": 218,
                 "y": -99,
                 "z": 1
