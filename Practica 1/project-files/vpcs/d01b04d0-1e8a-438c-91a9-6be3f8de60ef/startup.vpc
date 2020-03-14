@@ -1,9 +1,4 @@
-# This the configuration for HOST_4
-#
-# Uncomment the following line to enable DHCP
-# dhcp
-# or the line below to manually setup an IP address and subnet mask
-# ip 192.168.1.1 255.0.0.0
-#
-
 set pcname HOST_4
+ip 172.16.100.54 172.16.100.62 26
+ip domain localdomain
+ip dns 192.168.159.1
